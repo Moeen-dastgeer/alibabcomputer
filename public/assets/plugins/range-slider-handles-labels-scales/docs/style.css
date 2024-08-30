@@ -1,0 +1,10 @@
+div[id^='anchor'] {
+  width: 100%;
+}
+
+.demo-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
